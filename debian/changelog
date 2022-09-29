@@ -1,0 +1,11 @@
+golang-gopkg-errgo.v2 (2.1.0-2) unstable; urgency=medium
+
+  * Source-only upload for migration to testing
+
+ -- Anthony Fok <foka@debian.org>  Mon, 24 Feb 2020 17:26:01 -0700
+
+golang-gopkg-errgo.v2 (2.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #951418)
+
+ -- Anthony Fok <foka@debian.org>  Sun, 16 Feb 2020 03:44:26 -0700

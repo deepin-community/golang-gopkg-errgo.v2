@@ -1,0 +1,4 @@
+version=4
+opts="filenamemangle=s%(?:.*?)?v?(\d[\d.]*)\.tar\.gz%golang-gopkg-errgo.v2-$1.tar.gz%" \
+    https://github.com/go-errgo/errgo/tags \
+    (?:.*?/)?v?(2\.[\d.]*)\.tar\.gz debian
